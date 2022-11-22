@@ -13,6 +13,7 @@ while consoleOpen:
     print("")
     print("Zusätzliche Befehle:")
     print("- show shoppingcart | Um dein Einkaufswagen anzugucken")
+    print("- money | Um dein aktuelles Guthaben zu sehen")
     print("- checkout | um zu bezahlen")
     print("")
     inputVal = input("Was möchtest du ? ")
