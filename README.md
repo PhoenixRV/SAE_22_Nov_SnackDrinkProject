@@ -1,4 +1,4 @@
-# SAE_22_Nov_PyEndProject
+# SAE_22_Nov_PSnackDrinkProject
 
 ## Beschreibung:
 Man wird am anfang gefragt, wie viel Geld man ausgeben möchte bzw. in einen Pool geben möchte.
