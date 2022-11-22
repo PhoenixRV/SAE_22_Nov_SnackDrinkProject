@@ -4,11 +4,16 @@ itemList = []
 price = 0
 
 while consoleOpen:
+    print("Zu erhaltenen Artikel:")
     print("Fanta 2€")
     print("Cola 3€")
     print("Snickers 1€")
     print("Mars 1€")
     print("Orangensaft 2€")
+    print("")
+    print("Zusätzliche Befehle:")
+    print("- show shoppingcart | Um dein Einkaufswagen anzugucken")
+    print("- checkout | um zu bezahlen")
     print("")
     inputVal = input("Was möchtest du ? ")
     if inputVal.lower() == "fanta":
